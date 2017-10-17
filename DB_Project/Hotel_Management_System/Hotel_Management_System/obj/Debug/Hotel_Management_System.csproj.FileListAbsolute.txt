@@ -1,0 +1,12 @@
+E:\Database\Hotel_Management_System\Hotel_Management_System\bin\Debug\Hotel_Management_System.exe.config
+E:\Database\Hotel_Management_System\Hotel_Management_System\bin\Debug\Hotel_Management_System.exe
+E:\Database\Hotel_Management_System\Hotel_Management_System\bin\Debug\Hotel_Management_System.pdb
+E:\Database\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.csprojResolveAssemblyReference.cache
+E:\Database\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.Form1.resources
+E:\Database\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.Properties.Resources.resources
+E:\Database\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.User_login.resources
+E:\Database\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.csproj.GenerateResource.Cache
+E:\Database\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.exe
+E:\Database\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.pdb
+E:\Database\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.Admin_Login.resources
+E:\Database\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.new_user_form.resources
